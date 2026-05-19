@@ -1,27 +1,150 @@
-{"glyphs":{"E":{
-         "ha":814,
-         "x_min":null,
-         "x_max":null,
-         "o":"m 742 231 b 669 97 721 175 693 126 b 490 50 638 61 596 50 b 344 68 422 50 372 51 b 310 182 318 85 310 115 l 310 446 l 443 446 b 596 336 567 446 576 438 l 638 336 l 638 608 l 596 608 b 442 503 578 514 569 503 l 310 503 l 310 822 b 358 867 310 864 313 867 l 464 867 b 624 828 565 867 603 857 b 671 707 643 796 657 764 l 714 713 b 700 918 708 786 701 882 l 61 918 l 61 876 b 182 736 171 868 182 863 l 182 178 b 40 40 182 63 171 51 l 40 0 l 735 0 b 783 225 747 44 775 176 z "
-      },"m":{
-         "ha":1169,
-         "x_min":null,
-         "x_max":null,
-         "o":"m 1139 0 l 1139 36 b 1047 146 1057 46 1047 51 l 1047 415 b 865 635 1047 556 975 635 b 757 596 825 635 788 617 b 640 518 722 575 682 549 b 481 635 613 590 550 635 b 365 594 438 635 403 618 b 263 524 322 568 292 544 l 263 639 b 58 581 196 610 121 592 l 58 547 b 144 438 139 535 144 528 l 144 147 b 39 36 144 54 131 44 l 39 0 l 343 0 l 343 36 b 263 146 275 44 263 54 l 263 476 b 414 549 304 511 360 549 b 538 386 497 549 538 492 l 538 146 b 438 36 538 54 524 44 l 438 0 l 746 0 l 746 36 b 656 144 668 44 656 54 l 656 415 b 651 476 656 443 654 460 b 806 547 704 521 757 547 b 929 385 890 547 929 488 l 929 153 b 832 36 929 53 913 44 l 832 0 z "
-      },"y":{
-         "ha":656,
-         "x_min":null,
-         "x_max":null,
-         "o":"m 682 618 l 425 618 l 425 581 b 497 500 504 569 514 553 b 369 154 469 413 408 247 l 242 503 b 296 581 222 556 229 569 l 296 618 l 0 618 l 0 581 b 122 475 78 569 92 550 b 286 40 163 379 228 206 b 289 -22 294 17 296 -1 b 247 -117 283 -40 272 -69 b 138 -242 213 -179 185 -212 b 101 -292 114 -257 101 -271 b 185 -364 101 -328 146 -364 b 229 -328 204 -364 222 -357 b 378 56 251 -251 282 -171 b 557 476 476 286 521 403 b 682 581 594 557 607 568 z "
-      },"r":{
-         "ha":533,
-         "x_min":null,
-         "x_max":null,
-         "o":"m 263 482 l 263 638 b 57 581 193 608 126 592 l 57 549 b 144 440 136 538 144 532 l 144 147 b 44 38 144 54 133 44 l 44 0 l 381 0 l 381 38 b 263 149 269 44 263 54 l 263 403 b 374 522 293 481 339 522 b 436 492 397 522 413 513 b 474 489 444 483 457 482 b 522 563 501 501 522 532 b 438 635 522 596 488 635 b 267 482 371 635 310 557 z "
-      },"a": {
-    "ha": 629,
-    "x_min": null,
-    "x_max": null,
-   "o": "m 620 60 l 600 90 b 570 80 505 160 505 100 l 505 420 b 440 590 490 550 320 630 b 110 530 150 560 60 500 b 120 410 100 415 170 450 b 390 410 390 510 390 410 b 170 295 55 225 225 -15 b 390 70 405 30 495 -15 z"
- }
-},"familyName":"Adobe Hebrew","ascender":1010,"descender":-379,"underlinePosition":-104,"underlineThickness":69,"boundingBox":{"yMin":-417,"xMin":-458,"yMax":1293,"xMax":1524},"resolution":1000,"original_font_information":{"macintosh":{"copyright":{"en":"Copyright 2000, 2002, 2004, 2005, 2006, 2007, 2008 Adobe Systems Incorporated. All Rights Reserved. (Latin design U.S. Patent Des. 337,604; Hebrew design U.S. Patent Des. 527,411.)"},"fontFamily":{"en":"Adobe Hebrew"},"fontSubfamily":{"en":"Regular"},"uniqueID":{"en":"1.031;ADBE;AdobeHebrew-Regular"},"fullName":{"en":"Adobe Hebrew Regular"},"version":{"en":"Version 1.031"},"postScriptName":{"en":"AdobeHebrew-Regular"},"trademark":{"en":"Adobe Hebrew is a trademark of Adobe Systems Incorporated."},"manufacturer":{"en":"Tiro Typeworks for Adobe Systems Incorporated."},"designer":{"en":"John Hudson (Hebrew) and Robert Slimbach (Latin)"},"manufacturerURL":{"en":"http://www.adobe.com/type/"},"designerURL":{"en":"http://www.tiro.com/"},"licenseURL":{"en":"http://www.adobe.com/type/legal.html"},"preferredFamily":{"en":"Adobe Hebrew"},"preferredSubfamily":{"en":"Regular"},"compatibleFullName":{"en":"Adobe Hebrew"}},"windows":{"copyright":{"en":"Copyright 2000, 2002, 2004, 2005, 2006, 2007, 2008 Adobe Systems Incorporated. All Rights Reserved. (Latin design U.S. Patent Des. 337,604; Hebrew design U.S. Patent Des. 527,411.)"},"fontFamily":{"en":"Adobe Hebrew"},"fontSubfamily":{"en":"Regular"},"uniqueID":{"en":"1.031;ADBE;AdobeHebrew-Regular"},"fullName":{"en":"AdobeHebrew-Regular"},"version":{"en":"Version 1.031"},"postScriptName":{"en":"AdobeHebrew-Regular"},"trademark":{"en":"Adobe Hebrew is a trademark of Adobe Systems Incorporated."},"manufacturer":{"en":"Tiro Typeworks for Adobe Systems Incorporated."},"designer":{"en":"John Hudson (Hebrew) and Robert Slimbach (Latin)"},"manufacturerURL":{"en":"http://www.adobe.com/type/"},"designerURL":{"en":"http://www.tiro.com/"},"licenseURL":{"en":"http://www.adobe.com/type/legal.html"},"preferredFamily":{"en":"Adobe Hebrew"},"preferredSubfamily":{"en":"Regular"},"compatibleFullName":{"en":"Adobe Hebrew"}}},"cssFontWeight":"normal","cssFontStyle":"normal"}
+{
+  "glyphs": {
+    "E": {
+      "ha": 814,
+      "x_min": null,
+      "x_max": null,
+      "o": "m 742 231 b 669 97 721 175 693 126 b 490 50 638 61 596 50 b 344 68 422 50 372 51 b 310 182 318 85 310 115 l 310 446 l 443 446 b 596 336 567 446 576 438 l 638 336 l 638 608 l 596 608 b 442 503 578 514 569 503 l 310 503 l 310 822 b 358 867 310 864 313 867 l 464 867 b 624 828 565 867 603 857 b 671 707 643 796 657 764 l 714 713 b 700 918 708 786 701 882 l 61 918 l 61 876 b 182 736 171 868 182 863 l 182 178 b 40 40 182 63 171 51 l 40 0 l 735 0 b 783 225 747 44 775 176 z "
+    },
+    "m": {
+      "ha": 1169,
+      "x_min": null,
+      "x_max": null,
+      "o": "m 1139 0 l 1139 36 b 1047 146 1057 46 1047 51 l 1047 415 b 865 635 1047 556 975 635 b 757 596 825 635 788 617 b 640 518 722 575 682 549 b 481 635 613 590 550 635 b 365 594 438 635 403 618 b 263 524 322 568 292 544 l 263 639 b 58 581 196 610 121 592 l 58 547 b 144 438 139 535 144 528 l 144 147 b 39 36 144 54 131 44 l 39 0 l 343 0 l 343 36 b 263 146 275 44 263 54 l 263 476 b 414 549 304 511 360 549 b 538 386 497 549 538 492 l 538 146 b 438 36 538 54 524 44 l 438 0 l 746 0 l 746 36 b 656 144 668 44 656 54 l 656 415 b 651 476 656 443 654 460 b 806 547 704 521 757 547 b 929 385 890 547 929 488 l 929 153 b 832 36 929 53 913 44 l 832 0 z "
+    },
+    "y": {
+      "ha": 656,
+      "x_min": null,
+      "x_max": null,
+      "o": "m 682 618 l 425 618 l 425 581 b 497 500 504 569 514 553 b 369 154 469 413 408 247 l 242 503 b 296 581 222 556 229 569 l 296 618 l 0 618 l 0 581 b 122 475 78 569 92 550 b 286 40 163 379 228 206 b 289 -22 294 17 296 -1 b 247 -117 283 -40 272 -69 b 138 -242 213 -179 185 -212 b 101 -292 114 -257 101 -271 b 185 -364 101 -328 146 -364 b 229 -328 204 -364 222 -357 b 378 56 251 -251 282 -171 b 557 476 476 286 521 403 b 682 581 594 557 607 568 z "
+    },
+    "r": {
+      "ha": 533,
+      "x_min": null,
+      "x_max": null,
+      "o": "m 263 482 l 263 638 b 57 581 193 608 126 592 l 57 549 b 144 440 136 538 144 532 l 144 147 b 44 38 144 54 133 44 l 44 0 l 381 0 l 381 38 b 263 149 269 44 263 54 l 263 403 b 374 522 293 481 339 522 b 436 492 397 522 413 513 b 474 489 444 483 457 482 b 522 563 501 501 522 532 b 438 635 522 596 488 635 b 267 482 371 635 310 557 z "
+    },
+    "a": {
+      "ha": 629,
+      "x_min": null,
+      "x_max": null,
+      "o": "m 620 60 l 600 90 b 570 80 505 160 505 100 l 505 420 b 440 590 490 550 320 630 b 110 530 150 560 60 500 b 120 410 100 415 170 450 b 390 410 390 510 390 410 b 170 295 55 225 225 -15 b 390 70 405 30 495 -15 z"
+    }
+},
+"familyName": "Adobe Hebrew",
+"ascender": 1010,
+"descender": -379,
+"underlinePosition": -104,
+"underlineThickness": 69,
+"boundingBox": {
+  "yMin": -417,
+  "xMin": -458,
+  "yMax": 1293,
+  "xMax": 1524
+},
+"resolution": 1000,
+"original_font_information": {
+  "macintosh": {
+    "copyright": {
+      "en": "Copyright 2000, 2002, 2004, 2005, 2006, 2007, 2008 Adobe Systems Incorporated. All Rights Reserved. (Latin design U.S. Patent Des. 337,604; Hebrew design U.S. Patent Des. 527,411.)"
+    },
+    "fontFamily": {
+      "en": "Adobe Hebrew"
+    },
+    "fontSubfamily": {
+      "en": "Regular"
+    },
+    "uniqueID": {
+      "en": "1.031;ADBE;AdobeHebrew-Regular"
+    },
+    "fullName": {
+      "en": "Adobe Hebrew Regular"
+    },
+    "version": {
+      "en": "Version 1.031"
+    },
+    "postScriptName": {
+      "en": "AdobeHebrew-Regular"
+    },
+    "trademark": {
+      "en": "Adobe Hebrew is a trademark of Adobe Systems Incorporated."
+    },
+    "manufacturer": {
+      "en": "Tiro Typeworks for Adobe Systems Incorporated."
+    },
+    "designer": {
+      "en": "John Hudson (Hebrew) and Robert Slimbach (Latin)"
+    },
+    "manufacturerURL": {
+      "en": "http://www.adobe.com/type/"
+    },
+    "designerURL": {
+      "en": "http://www.tiro.com/"
+    },
+    "licenseURL": {
+      "en": "http://www.adobe.com/type/legal.html"
+    },
+    "preferredFamily": {
+      "en": "Adobe Hebrew"
+    },
+    "preferredSubfamily": {
+      "en": "Regular"
+    },
+    "compatibleFullName": {
+      "en": "Adobe Hebrew"
+    }
+  },
+  "windows": {
+    "copyright": {
+      "en": "Copyright 2000, 2002, 2004, 2005, 2006, 2007, 2008 Adobe Systems Incorporated. All Rights Reserved. (Latin design U.S. Patent Des. 337,604; Hebrew design U.S. Patent Des. 527,411.)"
+    },
+    "fontFamily": {
+      "en": "Adobe Hebrew"
+    },
+    "fontSubfamily": {
+      "en": "Regular"
+    },
+    "uniqueID": {
+      "en": "1.031;ADBE;AdobeHebrew-Regular"
+    },
+    "fullName": {
+      "en": "AdobeHebrew-Regular"
+    },
+    "version": {
+      "en": "Version 1.031"
+    },
+    "postScriptName": {
+      "en": "AdobeHebrew-Regular"
+    },
+    "trademark": {
+      "en": "Adobe Hebrew is a trademark of Adobe Systems Incorporated."
+    },
+    "manufacturer": {
+      "en": "Tiro Typeworks for Adobe Systems Incorporated."
+    },
+    "designer": {
+      "en": "John Hudson (Hebrew) and Robert Slimbach (Latin)"
+    },
+    "manufacturerURL": {
+      "en": "http://www.adobe.com/type/"
+    },
+    "designerURL": {
+      "en": "http://www.tiro.com/"
+    },
+    "licenseURL": {
+      "en": "http://www.adobe.com/type/legal.html"
+    },
+    "preferredFamily": {
+      "en": "Adobe Hebrew"
+    },
+    "preferredSubfamily": {
+      "en": "Regular"
+    },
+    "compatibleFullName": {
+      "en": "Adobe Hebrew"
+    }
+  }
+},
+"cssFontWeight": "normal",
+"cssFontStyle": "normal"
+}
